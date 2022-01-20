@@ -6,5 +6,5 @@ in this tutorial we see how to load a specific program.
 ## Assignments
 
 There were two Assignments
-- [Assignment1]()
-- [Assignment2]()
+- [Assignment1](https://github.com/BISTArk/ISTE-Crypt-22-XDP-Router/tree/main/XDP-Basics/Vishnu/Basic_02/Assignment1)
+- [Assignment2](https://github.com/BISTArk/ISTE-Crypt-22-XDP-Router/tree/main/XDP-Basics/Vishnu/Basic_02/Assignment2)
